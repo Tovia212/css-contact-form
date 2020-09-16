@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*{
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background-color:rgb(41, 41, 95);
+}
+form{
+    width: 50%;
+    background: center / contain no-repeat url(https://res.cloudinary.com/tovia212/image/upload/v1600082656/css_logo_k1utmo.png);           
+    height: 100vh; 
+    margin:auto;
+    background-color:rgb(28, 25, 41);
+    margin-top:5%
+}
+form input{
+    width: 80%;
+    padding: 20px;
+    margin:20px;
+    border-radius: 5px;
+    }
+
+h2{
+    text-align: center;
+    
+}
+
+.style{
+    background-color: rgb(41, 41, 95);
+    width: 90%;
+    padding: 10px;
+    
+}
